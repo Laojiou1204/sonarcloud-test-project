@@ -1,1 +1,3 @@
 測試sonarcloud怎麼用的專案位置,透過Pull reauest來讓build啟動sonarqube傳送,那coverage需要自己先製作好報表
+sonar-project.propeit存放專案key跟告訴sonarqube去看甚麼報表(覆蓋率報表名稱)
+workflow寫好build怎麼啟動跟代入setting設定好的安全KEY
