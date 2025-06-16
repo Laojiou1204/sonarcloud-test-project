@@ -16,7 +16,7 @@ from pathlib import Path
 
 # 導入我們要測試的類別和函數
 # 這裡假設你的原始檔案名為 personal_expense_tracker.py
-from personal_expense_tracker import Expense, ExpenseTracker
+from test02 import Expense, ExpenseTracker
 
 
 class TestExpense(unittest.TestCase):
